@@ -1,0 +1,203 @@
+
+*{
+    font-family: arial;
+    
+}
+
+#home{
+    background: #FFDB89;
+    margin-bottom: 70px;
+}
+
+#home .col-md-7 span{
+  color: #DC0000; 
+  font-size: 60px; 
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.nav{
+    font-size: 18px;
+}
+
+.nav-link{
+    color: #DC0000;
+}
+
+.logo{
+	width: 50px;
+	margin-left: 40px;
+  }
+
+.collapse{
+  text-align: right;
+}
+
+#home .container h1{
+    margin-top: 90px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#home .cake img{
+    margin-top: 90px;
+    margin-bottom: 70px;
+    height: 300px;
+}
+
+
+/*product*/
+
+#product .container h1{
+  color: #850000; 
+  font-size: 50px; font-family: 'Alfa Slab One', cursive;
+  padding:30px;
+}
+
+#product{
+  padding: 20px;
+}
+
+#product .container p{
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: lighter;
+
+}
+
+#product .card-body p {
+  font-weight: bold;
+}
+
+#product .card-title {
+  color: #850000; 
+  font-size: 100px; 
+  font-family: 'Alfa Slab One', cursive;
+}
+
+#product .card-body .card-text {
+  font-weight: lighter;
+  margin-top: 20px;
+}
+
+.product-title{
+  margin-bottom: 10px;
+}
+
+#product .card-body .read .btn{
+  background: #FFDB89; 
+  border-color: #FFDB89;
+}
+
+.row{
+    margin-top: 100px;
+}
+
+.cake img{
+   margin-bottom: 70px;
+}
+.container h1, p{
+    color: black;
+}
+
+.card{
+    display: block;
+}
+
+/*overview*/
+#overview{
+  margin-bottom: 30px;
+}
+
+#overview .container .text-dark{
+  color: #850000; 
+  font-size: 50px; 
+  font-family: 'Alfa Slab One', cursive; 
+  padding:20px; 
+}
+
+#overview .team .col-md-4 .card-body .card-title{
+  color: #850000;
+  font-weight: bold;
+}
+
+#about-us{
+    padding: none;
+    background: #FFDB89;;
+    border-radius: 10px; 
+}
+
+#about-us .section4-body{
+  background-color: #FFF6C3; 
+  padding: 30px; 
+}
+
+#about-us .section4-body .learnmore{
+  color: #850000; 
+  font-size: 40px; 
+  font-family: 'Alfa Slab One', cursive;
+  padding: 20px;
+}
+
+#about-us .read .btn{
+  background: #850000; 
+  border-color: #850000;
+}
+
+/*footer*/
+footer{
+  background: #850000;
+  border-radius: 10px;
+}
+
+.footer.text-light{
+  background: #FFDB89; 
+  border-radius: 10px; 
+  
+}
+
+.footer .container .row{
+  margin: 10px;
+}
+
+.footer .container .row .col-md-6 h5{
+  color: #850000; 
+  font-size: 20px; 
+  font-family: 'Alfa Slab One', cursive; 
+}
+
+.footer .container .row .col-md-3 h5{
+  color: #850000; 
+  font-size: 20px; 
+  font-family: 'Alfa Slab One', cursive; 
+}
+
+.footer .container .row .col-md-2 h4{
+  color: #850000; 
+  font-size: 20px; 
+  font-family: 'Alfa Slab One', cursive; 
+}
+
+.footer .container .row .col-md-2 .text-muted{
+  margin: 5px;
+  
+}
+
+.p-5  .container .lead{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.p-5  .container .bi{
+  color: #FFDB89;
+}
+
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+
+   
